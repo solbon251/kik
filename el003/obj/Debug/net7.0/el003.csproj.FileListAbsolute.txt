@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\bin\Debug\net7.0\el003.exe
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\bin\Debug\net7.0\el003.deps.json
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\bin\Debug\net7.0\el003.runtimeconfig.json
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\bin\Debug\net7.0\el003.dll
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\bin\Debug\net7.0\el003.pdb
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\el003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\el003.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\el003.AssemblyInfo.cs
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\el003.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\el003.dll
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\refint\el003.dll
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\el003.pdb
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\el003.genruntimeconfig.cache
+C:\Users\user\Desktop\Лабы ВД\repo4\exl\el003\obj\Debug\net7.0\ref\el003.dll
